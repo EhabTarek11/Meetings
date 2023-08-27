@@ -1,0 +1,4 @@
+class Consts {
+  static const String basUrlToken =
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlMiLCJqdGkiOiIxODNmMDVlNi1mYmMwLTRlZTEtOTE5MS1lN2EzZmFkNDM2YTciLCJlbWFpbCI6IjExIiwidWlkIjoiMSIsImNvbXBhbnlJRCI6IjEiLCJwZXJtaXNzaW9ucyI6IiIsImV4cCI6MTY5MDY0ODcwNiwiaXNzIjoiU2VjdXJlQXBpIiwiYXVkIjoiU2VjdXJlQXBpVXNlciJ9.rH7ow0qOeicOyDGRSmJ154O_4a8w_4Pj-YFhEZ_vtcc';
+}
